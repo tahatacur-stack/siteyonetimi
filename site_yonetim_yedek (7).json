@@ -1,0 +1,590 @@
+{
+  "daireler": [
+    {
+      "id": 1,
+      "no": "1 Nolu Daire",
+      "sahip": "Abdulkadir DAĞDEVİREN",
+      "telefon": "05425583831",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": true,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {
+        "2026-11": true
+      }
+    },
+    {
+      "id": 2,
+      "no": "2 Nolu Daire",
+      "sahip": "İsa ÇORUK",
+      "telefon": "0505397773375",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": true,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {
+        "2026-11": true
+      }
+    },
+    {
+      "id": 3,
+      "no": "3 Nolu Daire",
+      "sahip": "Recep KOÇOĞULLU",
+      "telefon": "050592488051",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": true,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {
+        "2026-11": true
+      }
+    },
+    {
+      "id": 4,
+      "no": "4 Nolu Daire",
+      "sahip": "Kadriye ÖZTÜRK",
+      "telefon": "033611304836",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": true,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {
+        "2026-11": true
+      }
+    },
+    {
+      "id": 5,
+      "no": "5 Nolu Daire",
+      "sahip": "Serhat OYTUKKAYA",
+      "telefon": "0905077092322",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": true,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {
+        "2026-11": true
+      }
+    },
+    {
+      "id": 6,
+      "no": "6 Nolu Daire",
+      "sahip": "Hilmi YEŞİL",
+      "telefon": "0905376770403",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": true,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {
+        "2026-11": true
+      }
+    },
+    {
+      "id": 7,
+      "no": "7 Nolu Daire",
+      "sahip": "Esat AYKULUĞ",
+      "telefon": "090533 417 28 13",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": true,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    },
+    {
+      "id": 8,
+      "no": "8 Nolu Daire",
+      "sahip": "Hüseyin YILDIZ",
+      "telefon": "0905362868104",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": true,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    },
+    {
+      "id": 9,
+      "no": "9 Nolu Daire",
+      "sahip": "Zafer OYGUR",
+      "telefon": "090542 337 12 10",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": true,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    },
+    {
+      "id": 10,
+      "no": "10 Nolu Daire",
+      "sahip": "Gökhan SARGIN",
+      "telefon": "05548268116",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": true,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    },
+    {
+      "id": 11,
+      "no": "11 Nolu Daire",
+      "sahip": "Ali ÜSTÜN",
+      "telefon": "0905506266867",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": true,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    },
+    {
+      "id": 12,
+      "no": "12 Nolu Daire",
+      "sahip": "Erkut İŞLER",
+      "telefon": "090535317404",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": true,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    },
+    {
+      "id": 1793573375966,
+      "no": "13 Nolu Daire",
+      "sahip": "Daire 13 Sakini",
+      "telefon": "",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": false,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    },
+    {
+      "id": 1793573375967,
+      "no": "14 Nolu Daire",
+      "sahip": "Daire 14 Sakini",
+      "telefon": "",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": false,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    },
+    {
+      "id": 1793573375968,
+      "no": "15 Nolu Daire",
+      "sahip": "Daire 15 Sakini",
+      "telefon": "",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": false,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    },
+    {
+      "id": 1793573375969,
+      "no": "16 Nolu Daire",
+      "sahip": "Daire 16 Sakini",
+      "telefon": "",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": false,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    },
+    {
+      "id": 1793573375970,
+      "no": "17 Nolu Daire",
+      "sahip": "Daire 17 Sakini",
+      "telefon": "",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": false,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    },
+    {
+      "id": 1793573375971,
+      "no": "18 Nolu Daire",
+      "sahip": "Daire 18 Sakini",
+      "telefon": "",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": false,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    },
+    {
+      "id": 1793573375972,
+      "no": "19 Nolu Daire",
+      "sahip": "Daire 19 Sakini",
+      "telefon": "",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": false,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    },
+    {
+      "id": 1793573375973,
+      "no": "20 Nolu Daire",
+      "sahip": "Daire 20 Sakini",
+      "telefon": "",
+      "sifre": "12345",
+      "tutar": 350,
+      "yoneticiMuaf": false,
+      "izinler": {
+        "aidat": true,
+        "duyurular": true,
+        "arizalar": true,
+        "kontrol": false,
+        "kasa": false,
+        "banka": false,
+        "toplanti": false,
+        "arsiv": false,
+        "rehber": true
+      },
+      "odemeGecmisi": {}
+    }
+  ],
+  "islemler": [
+    {
+      "id": 1793573463357,
+      "tip": "gelir",
+      "kategori": "Aidat Ödemesi",
+      "kaynak": "Ziraat Bankası",
+      "aciklama": "6 Nolu Daire (Hilmi YEŞİL) Aidat Ödemesi",
+      "tutar": 350,
+      "gun": 2,
+      "ay": 11,
+      "yil": 2026,
+      "tarih": "2026-11-02",
+      "daireId": 6,
+      "islemAy": "2026-11"
+    },
+    {
+      "id": 1793573462844,
+      "tip": "gelir",
+      "kategori": "Aidat Ödemesi",
+      "kaynak": "Ziraat Bankası",
+      "aciklama": "5 Nolu Daire (Serhat OYTUKKAYA) Aidat Ödemesi",
+      "tutar": 350,
+      "gun": 2,
+      "ay": 11,
+      "yil": 2026,
+      "tarih": "2026-11-02",
+      "daireId": 5,
+      "islemAy": "2026-11"
+    },
+    {
+      "id": 1793573461686,
+      "tip": "gelir",
+      "kategori": "Aidat Ödemesi",
+      "kaynak": "Ziraat Bankası",
+      "aciklama": "4 Nolu Daire (Kadriye ÖZTÜRK) Aidat Ödemesi",
+      "tutar": 350,
+      "gun": 2,
+      "ay": 11,
+      "yil": 2026,
+      "tarih": "2026-11-02",
+      "daireId": 4,
+      "islemAy": "2026-11"
+    },
+    {
+      "id": 1793573461079,
+      "tip": "gelir",
+      "kategori": "Aidat Ödemesi",
+      "kaynak": "Ziraat Bankası",
+      "aciklama": "3 Nolu Daire (Recep KOÇOĞULLU) Aidat Ödemesi",
+      "tutar": 350,
+      "gun": 2,
+      "ay": 11,
+      "yil": 2026,
+      "tarih": "2026-11-02",
+      "daireId": 3,
+      "islemAy": "2026-11"
+    },
+    {
+      "id": 1793573460340,
+      "tip": "gelir",
+      "kategori": "Aidat Ödemesi",
+      "kaynak": "Ziraat Bankası",
+      "aciklama": "2 Nolu Daire (İsa ÇORUK) Aidat Ödemesi",
+      "tutar": 350,
+      "gun": 2,
+      "ay": 11,
+      "yil": 2026,
+      "tarih": "2026-11-02",
+      "daireId": 2,
+      "islemAy": "2026-11"
+    },
+    {
+      "id": 1793573459659,
+      "tip": "gelir",
+      "kategori": "Aidat Ödemesi",
+      "kaynak": "Ziraat Bankası",
+      "aciklama": "1 Nolu Daire (Abdulkadir DAĞDEVİREN) Aidat Ödemesi",
+      "tutar": 350,
+      "gun": 2,
+      "ay": 11,
+      "yil": 2026,
+      "tarih": "2026-11-02",
+      "daireId": 1,
+      "islemAy": "2026-11"
+    },
+    {
+      "id": 1,
+      "tip": "gider",
+      "kategori": "Asansör Bakım",
+      "kaynak": "Ziraat Bankası",
+      "aciklama": "Asansör",
+      "tutar": 1350,
+      "gun": 30,
+      "ay": 10,
+      "yil": 2026,
+      "tarih": "2026-10-30",
+      "belgeData": null
+    },
+    {
+      "id": 2,
+      "tip": "gelir",
+      "kategori": "Aidat Ödemesi",
+      "kaynak": "Ziraat Bankası",
+      "aciklama": "10 Nolu Daire (Gökhan SARGIN) Ödemesi",
+      "tutar": 350,
+      "gun": 29,
+      "ay": 10,
+      "yil": 2026,
+      "tarih": "2026-10-29",
+      "daireId": 10,
+      "islemAy": "2026-10",
+      "belgeData": null
+    },
+    {
+      "id": 3,
+      "tip": "gelir",
+      "kategori": "Demirbaş Toplanan",
+      "kaynak": "Nakit Kasa",
+      "aciklama": "Demirbaş harici toplanan",
+      "tutar": 20000,
+      "gun": 29,
+      "ay": 10,
+      "yil": 2026,
+      "tarih": "2026-10-29",
+      "belgeData": null
+    }
+  ],
+  "arsivBelgeleri": [],
+  "toplantilar": [
+    {
+      "id": 1,
+      "baslik": "Asansör Bakım ve Genel Kurul",
+      "tarih": "2026-10-15",
+      "kararlar": "Yıllık bakım ve asansör revizyonu görüşüldü."
+    }
+  ],
+  "arizalar": [
+    {
+      "id": 1,
+      "daire": "1 Nolu Daire - Abdulkadir DAĞDEVİREN",
+      "kategori": "Asansör Arızası",
+      "aciklama": "Asansör 3. katta duruyor.",
+      "tarih": "2026-10-28",
+      "durum": "İşlemde"
+    }
+  ],
+  "sistemAyarlari": {
+    "smsKurali": "aylik_1",
+    "yedekSikligi": "her_islem",
+    "genelDuyuru": "Lütfen yazıları dikkate alın!kjnıjn",
+    "duyuruTarihi": "02.11.2026 01:14"
+  },
+  "yoneticiSifre": "135790",
+  "tarih": "2026-11-01T22:51:42.083Z"
+}
